@@ -1,16 +1,26 @@
-## Hi there 👋
+# William Taggart
 
-<!--
-**FL2744/FL2744** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work at the intersection of **artificial intelligence, global languages, translation, and the humanities**.
 
-Here are some ideas to get you started:
+My projects explore how large language models can be used to better understand multilingual communication, translation, culture, and global information.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current interests
+
+- Large language models and multilingual AI
+- Machine translation and translation evaluation
+- AI and global languages
+- Digital humanities
+- AI-assisted research and data analysis
+- Tools for teaching and learning about AI
+
+### Selected projects
+
+**L1001**  
+Resources, demonstrations, and tools developed for a course exploring AI, language, translation, culture, and society.
+
+**DIPLO**  
+Tools for collecting, translating, mapping, and analyzing multilingual political and cultural information.
+
+---
+
+Virginia Tech · Modern and Classical Languages and Literatures
