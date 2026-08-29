@@ -15,13 +15,13 @@ My projects explore how large language models can be used to better understand m
 
 ### Selected projects
 
-**[L1001](/FL2744/L1001)**  
+**[L1001](https://github.com/FL2744/L1001)**  
 Resources, demonstrations, and tools developed for a course exploring AI, language, translation, culture, and society.
 
-**[DIPLO](/FL2744/DIPLO)**  
+**[DIPLO](https://github.com/FL2744/DIPLO)**  
 Tools for collecting, translating, mapping, and analyzing multilingual political and cultural information.
 
-**[EMBED](/FL2744/EMBED)**  
+**[EMBED](https://github.com/FL2744/EMBED)**  
 Resources for vector embedding visualizations.
 
 ---
