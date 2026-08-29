@@ -2,7 +2,7 @@
 
 I work at the intersection of **artificial intelligence and the humanities**.
 
-My projects explore how large language models can be used to better understand multilingual communication, translation, culture, and global information.
+My projects explore how large language models can be used to better understand translation, culture, and creative expression. 
 
 ### Current interests
 
