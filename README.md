@@ -21,6 +21,9 @@ Resources, demonstrations, and tools developed for a course exploring AI, langua
 **DIPLO**  
 Tools for collecting, translating, mapping, and analyzing multilingual political and cultural information.
 
+**EMBED**  
+Resources for vector embedding visualizations. 
+
 ---
 
 Virginia Tech · Modern and Classical Languages and Literatures
