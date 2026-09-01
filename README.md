@@ -21,7 +21,7 @@ Resources, demonstrations, and tools developed for a course exploring AI, langua
 **[DIPLO](https://github.com/FL2744/DIPLO)**  
 Tools for collecting, translating, mapping, and analyzing multilingual political and cultural information.
 
-**[EMBED](https://github.com/FL2744/TURTLE)**  
+**[TURTLE](https://github.com/FL2744/TURTLE)**  
 TURTLE: Trajectory-based Understanding and Rendering of Transformations in Latent Embeddings
 
 **[EMBED](https://github.com/FL2744/EMBED)**  
