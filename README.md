@@ -18,7 +18,7 @@ My projects explore how large language models can be used to better understand t
 **[L1001](https://github.com/FL2744/L1001)**  
 Resources, demonstrations, and tools developed for a course exploring AI, language, translation, culture, and society.
 
-**[SUGAR](https://github.com/FL2744/SUGAR)**  https://github.com/FL2744/SUGAR
+**[SUGAR](https://github.com/FL2744/SUGAR)**  
 Tools for collecting, translating, mapping, and analyzing multilingual political and cultural information.
 
 **[TURTLE](https://github.com/FL2744/TURTLE)**  
