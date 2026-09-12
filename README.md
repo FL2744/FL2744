@@ -16,7 +16,7 @@ My projects explore how large language models can be used to better understand t
 ### Selected projects
 
 **[L1001](https://github.com/FL2744/L1001)**  
-L1001: An open-source translation platform for long-form translation using LLMs
+L1001: An open-source framework for long-form translation with LLMs
 
 **[SUGAR](https://github.com/FL2744/SUGAR)**  
 SUGAR: System for User-Generated Content Gathering, Analysis, and Representation
