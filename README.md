@@ -16,7 +16,7 @@ My projects explore how large language models can be used to better understand t
 ### Selected projects
 
 **[L1001](https://github.com/FL2744/L1001)**  
-Resources, demonstrations, and tools developed for a course exploring AI, language, translation, culture, and society.
+L1001: An open-source translation engine for long-form translation 
 
 **[SUGAR](https://github.com/FL2744/SUGAR)**  
 SUGAR: System for User-Generated Content Gathering, Analysis, and Representation
