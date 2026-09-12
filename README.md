@@ -24,11 +24,8 @@ SUGAR: System for User-Generated Content Gathering, Analysis, and Representation
 **[TURTLE](https://github.com/FL2744/TURTLE)**  
 TURTLE: Trajectory-based Understanding and Rendering of Transformations in Latent Embeddings
 
-**[EMBED](https://github.com/FL2744/EMBED)**  
-Resources for vector embedding visualizations.
-
 **[EMBED](https://github.com/FL2744/SAGE)**  
-Resources for vector embedding visualizations.
+SAGE: Synthetic Automated Generator of Encyclopedias
 
 ---
 
