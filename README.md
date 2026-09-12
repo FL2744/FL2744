@@ -27,6 +27,9 @@ TURTLE: Trajectory-based Understanding and Rendering of Transformations in Laten
 **[EMBED](https://github.com/FL2744/EMBED)**  
 Resources for vector embedding visualizations.
 
+**[EMBED](https://github.com/FL2744/SAGE)**  
+Resources for vector embedding visualizations.
+
 ---
 
 Virginia Tech · Modern and Classical Languages and Literatures
