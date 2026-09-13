@@ -18,14 +18,14 @@ My projects explore how large language models can be used to better understand t
 **[L1001](https://github.com/FL2744/L1001)**  
 L1001: An open-source framework for long-form translation with LLMs
 
+**[SAGE](https://github.com/FL2744/SAGE)**  
+SAGE: Synthetic Automated Generator of Encyclopedias
+
 **[SUGAR](https://github.com/FL2744/SUGAR)**  
 SUGAR: System for User-Generated Content Gathering, Analysis, and Representation
 
 **[TURTLE](https://github.com/FL2744/TURTLE)**  
 TURTLE: Trajectory-based Understanding and Rendering of Transformations in Latent Embeddings
-
-**[SAGE](https://github.com/FL2744/SAGE)**  
-SAGE: Synthetic Automated Generator of Encyclopedias
 
 ---
 
