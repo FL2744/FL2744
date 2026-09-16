@@ -15,14 +15,14 @@ My projects explore how large language models can be used to better understand t
 
 ### Selected projects
 
+**[Encyclopedia of Artificial Intelligence](https://github.com/FL2744/Encyclopedia-of-Artificial-Intelligence)**  
+A 309-entry reference guide to AI foundations, applications, history, and society, edited by William Taggart
+
 **[L1001](https://github.com/FL2744/L1001)**  
 L1001: An open-source framework for long-form translation with LLMs
 
 **[SAGE](https://github.com/FL2744/SAGE)**  
 SAGE: Synthetic Automated Generator of Encyclopedias
-
-**[Encyclopedia of Artificial Intelligence](https://github.com/FL2744/Encyclopedia-of-Artificial-Intelligence)**  
-A 309-entry reference guide to AI foundations, applications, history, and society, edited by William Taggart
 
 **[SUGAR](https://github.com/FL2744/SUGAR)**  
 SUGAR: System for User-Generated Content Gathering, Analysis, and Representation
