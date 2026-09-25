@@ -18,7 +18,7 @@ The course site for my FL 2744: AI and Global Languages class is here: **[l1001.
 ### Selected projects
 
 **[Encyclopedia of Artificial Intelligence](https://github.com/FL2744/Encyclopedia-of-Artificial-Intelligence)**  
-A 309-entry reference guide to AI foundations, applications, history, and society 
+A reference guide to the ideas, methods, people, and institutions shaping artificial intelligence. 
 
 **[L1001](https://github.com/FL2744/L1001)**  
 L1001: An open-source framework for long-form translation with LLMs
