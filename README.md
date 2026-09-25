@@ -4,6 +4,8 @@ I work at the intersection of **artificial intelligence and the humanities**.
 
 My projects explore how large language models can be used to better understand translation, culture, and creative expression. 
 
+The course site for my FL 2744: AI and Global Languages class is here: **[L1001](https://l1001.vt.domains)** 
+
 ### Current interests
 
 - Large language models and multilingual AI
