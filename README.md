@@ -17,9 +17,6 @@ The public-facing site for my FL 2744: AI and Global Languages class is here: **
 
 ### Selected projects
 
-**[Encyclopedia of Artificial Intelligence](https://github.com/FL2744/Encyclopedia-of-Artificial-Intelligence)**  
-A reference guide to the ideas, methods, people, and institutions shaping artificial intelligence. 
-
 **[L1001](https://github.com/FL2744/L1001)**  
 L1001: An open-source framework for long-form translation with LLMs
 
@@ -31,6 +28,9 @@ SUGAR: System for User-Generated Content Gathering, Analysis, and Representation
 
 **[TURTLE](https://github.com/FL2744/TURTLE)**  
 TURTLE: Trajectory-based Understanding and Rendering of Transformations in Latent Embeddings
+
+**[Encyclopedia of Artificial Intelligence](https://github.com/FL2744/Encyclopedia-of-Artificial-Intelligence)**  
+A reference guide to the ideas, methods, people, and institutions shaping artificial intelligence. 
 
 ---
 
