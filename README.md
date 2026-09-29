@@ -17,7 +17,7 @@ The public-facing site for my FL 2744: AI and Global Languages class is here: **
 
 ### Selected projects
 
-**[L1001](https://github.com/FL2744/L1001)**  L1001: An open-source framework for long-form translation with LLMs
+**[L1001](https://github.com/FL2744/L1001)** An open-source framework for long-form translation with LLMs
 
 **[SAGE](https://github.com/FL2744/SAGE)**  
 SAGE: Synthetic Automated Generator of Encyclopedias
