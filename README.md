@@ -26,6 +26,9 @@ SAGE: Synthetic Automated Generator of Encyclopedias
 **[Encyclopedia of Artificial Intelligence](https://github.com/FL2744/Encyclopedia-of-Artificial-Intelligence)**  
 A reference guide to the ideas, methods, people, and institutions shaping artificial intelligence. 
 
+**[Synthetic Creativity](https://github.com/FL2744/synthetic-creativity)**  
+An experimental framework for synthetic creativity: ideas, tools, and worlds through an interactive discipline matrix and cube.
+
 **[SUGAR](https://github.com/FL2744/SUGAR)**  
 SUGAR: System for User-Generated Content Gathering, Analysis, and Representation
 
