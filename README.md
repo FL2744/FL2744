@@ -32,7 +32,7 @@ SUGAR: System for User-Generated Content Gathering, Analysis, and Representation
 **[TURTLE](https://github.com/FL2744/TURTLE)**  
 TURTLE: Trajectory-based Understanding and Rendering of Transformations in Latent Embeddings
 
-**[VORTEX]([https://github.com/FL2744/VORTEX])**  
+**[VORTEX](https://github.com/FL2744/VORTEX)**  
 VORTEX: Voice Recognition to Text Extractor — Whisper transcription and multilingual text translation.
 
 ---
