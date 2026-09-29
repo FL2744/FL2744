@@ -17,6 +17,8 @@ The public-facing site for my FL 2744: AI and Global Languages class is here: **
 
 ### Selected projects
 
+![L1001 logo](L1001-visual.png)
+
 **[L1001](https://github.com/FL2744/L1001)**    
 An open-source framework for long-form translation with LLMs
 
