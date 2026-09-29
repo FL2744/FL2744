@@ -15,10 +15,18 @@ The public-facing site for my FL 2744: AI and Global Languages class is here: **
 - AI-assisted research and data analysis
 - Tools for teaching and learning about AI
 
-### Selected projects
+### Language and Translation
 
 **[L1001](https://github.com/FL2744/L1001)**    
 An open-source framework for long-form translation with LLMs
+
+**[SUGAR](https://github.com/FL2744/SUGAR)**  
+SUGAR: System for User-Generated Content Gathering, Analysis, and Representation
+
+**[VORTEX](https://github.com/FL2744/VORTEX)**  
+VORTEX: Voice Recognition to Text Extractor — Whisper transcription and multilingual text translation.
+
+### Knowledge & Research
 
 **[SAGE](https://github.com/FL2744/SAGE)**  
 SAGE: Synthetic Automated Generator of Encyclopedias
@@ -26,17 +34,13 @@ SAGE: Synthetic Automated Generator of Encyclopedias
 **[Encyclopedia of Artificial Intelligence](https://github.com/FL2744/Encyclopedia-of-Artificial-Intelligence)**  
 A reference guide to the ideas, methods, people, and institutions shaping artificial intelligence. 
 
-**[Synthetic Creativity](https://github.com/FL2744/synthetic-creativity)**  
-An experimental framework for synthetic creativity: ideas, tools, and worlds through an interactive discipline matrix and cube.
-
-**[SUGAR](https://github.com/FL2744/SUGAR)**  
-SUGAR: System for User-Generated Content Gathering, Analysis, and Representation
+### Creativity and Visualization
 
 **[TURTLE](https://github.com/FL2744/TURTLE)**  
 TURTLE: Trajectory-based Understanding and Rendering of Transformations in Latent Embeddings
 
-**[VORTEX](https://github.com/FL2744/VORTEX)**  
-VORTEX: Voice Recognition to Text Extractor — Whisper transcription and multilingual text translation.
+**[Synthetic Creativity](https://github.com/FL2744/synthetic-creativity)**  
+An experimental framework for synthetic creativity: ideas, tools, and worlds through an interactive discipline matrix and cube.
 
 ---
 
