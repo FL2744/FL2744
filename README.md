@@ -15,6 +15,8 @@ The public-facing site for my FL 2744: AI and Global Languages class is here: **
 - AI-assisted research and data analysis
 - Tools for teaching and learning about AI
 
+### Selected Projects  
+
 **Language and Translation**
 
 **[L1001](https://github.com/FL2744/L1001)**    
