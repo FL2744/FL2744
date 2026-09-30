@@ -28,6 +28,9 @@ The public-facing site for my FL 2744: AI and Global Languages class is **[here]
 &emsp;**[VORTEX](https://github.com/FL2744/VORTEX)**  
 &emsp;VORTEX: Voice Recognition to Text Extractor — Whisper transcription and multilingual text translation.
 
+&emsp;**[Arabic Animals](https://github.com/FL2744/arabic-animals)**  
+&emsp;Arabic Animals: An HTML Language Game for Arabic
+
 **Knowledge & Research**
 
 &emsp;**[SAGE](https://github.com/FL2744/SAGE)**  
