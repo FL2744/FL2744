@@ -19,8 +19,8 @@ The public-facing site for my FL 2744: AI and Global Languages class is **[here]
 
 **Language and Translation**
 
-&emsp;**[L1001](https://github.com/FL2744/L1001)**    
-&emsp;An open-source framework for long-form translation with LLMs
+&emsp;&emsp;**[L1001](https://github.com/FL2744/L1001)**    
+&emsp;&emsp;An open-source framework for long-form translation with LLMs
 
 &emsp;**[SUGAR](https://github.com/FL2744/SUGAR)**  
 &emsp;SUGAR: System for User-Generated Content Gathering, Analysis, and Representation
