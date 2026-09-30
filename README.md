@@ -1,4 +1,4 @@
-# William Taggart
+# William Taggart $\text{\Huge Huge text}$
 
 I work at the intersection of **artificial intelligence and the humanities**.
 
