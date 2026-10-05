@@ -39,6 +39,9 @@ The public-facing site for my FL 2744: AI and Global Languages class is **[here]
 &emsp;**[Encyclopedia of Artificial Intelligence](https://github.com/FL2744/Encyclopedia-of-Artificial-Intelligence)**  
 &emsp;A reference guide to the ideas, methods, people, and institutions shaping artificial intelligence. 
 
+&emsp;**[KOALA](https://github.com/FL2744/KOALA)**  
+&emsp;Knowledge-Oriented Australian Literary Analysis: a macOS writing studio and Python CLI for scholarly articles and books.
+
 **Creativity and Visualization**
 
 &emsp;**[TURTLE](https://github.com/FL2744/TURTLE)**  
