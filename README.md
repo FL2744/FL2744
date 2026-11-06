@@ -37,7 +37,7 @@ The public-facing site for my FL 2744: AI and Global Languages class is **[here]
 **Knowledge & Research**
 
 &emsp;**[LAMP](https://github.com/FL2744/LAMP)**  
-&emsp;Latent Associative Memory Programming: an interactive laboratory for persistent, editable memory weights in a frozen transformer.
+&emsp;Latent Associative Memory Programming: an interactive laboratory for persistent memory in an LLM. 
 
 &emsp;**[SAGE](https://github.com/FL2744/SAGE)**  
 &emsp;SAGE: Synthetic Automated Generator of Encyclopedias
