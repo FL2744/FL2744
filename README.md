@@ -36,6 +36,9 @@ The public-facing site for my FL 2744: AI and Global Languages class is **[here]
 
 **Knowledge & Research**
 
+&emsp;**[Weight / Memory](https://github.com/FL2744/weight-memory)**  
+&emsp;An interactive laboratory for exploring persistent, editable memory weights in a frozen transformer.
+
 &emsp;**[SAGE](https://github.com/FL2744/SAGE)**  
 &emsp;SAGE: Synthetic Automated Generator of Encyclopedias
 
