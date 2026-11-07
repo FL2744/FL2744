@@ -53,6 +53,9 @@ The public-facing site for my FL 2744: AI and Global Languages class is **[here]
 &emsp;**[TURTLE](https://github.com/FL2744/TURTLE)**  
 &emsp;TURTLE: Trajectory-based Understanding and Rendering of Transformations in Latent Embeddings
 
+&emsp;**[Emotional Atlas](https://github.com/FL2744/Emotional-Atlas)**  
+&emsp;An AI-powered desktop app for exploring emotional meaning in texts through interactive 3D visualizations.
+
 &emsp;**[Synthetic Creativity](https://github.com/FL2744/synthetic-creativity)**  
 &emsp;An experimental framework for synthetic creativity: ideas, tools, and worlds through an interactive discipline matrix and cube.
 
