@@ -2,7 +2,9 @@
 
 I work at the intersection of **artificial intelligence and the humanities**.
 
-My projects explore how large language models can be used to better understand translation, culture, and creative expression. 
+My projects explore how large language models can be used to better understand translation, culture, and creative expression.
+
+Technical papers for these projects can be found [here](https://github.com/FL2744/Technical-Papers).
 
 The public-facing site for my FL 2744: AI and Global Languages class is **[here](https://l1001.vt.domains)**.
 
@@ -18,6 +20,9 @@ The public-facing site for my FL 2744: AI and Global Languages class is **[here]
 ### Selected Projects  
 
 **Language and Translation**
+
+&emsp;**[AFFECTOR](https://github.com/FL2744/AFFECTOR)**  
+&emsp;A text-rewriting app that applies emotional trajectories through activation steering or API-based generation.
 
 &emsp;**[L1001](https://github.com/FL2744/L1001)**    
 &emsp;An open-source framework for long-form translation with LLMs
@@ -35,6 +40,9 @@ The public-facing site for my FL 2744: AI and Global Languages class is **[here]
 &emsp;Arabic Animals: An HTML Language Game for Arabic
 
 **Knowledge & Research**
+
+&emsp;**[ARC Explorer](https://github.com/FL2744/ARC-Explorer)**  
+&emsp;A macOS workspace for ARC connections, cluster resources, jobs, remote files, terminals, and Jupyter sessions.
 
 &emsp;**[LAMP](https://github.com/FL2744/LAMP)**  
 &emsp;Latent Associative Memory Programming: an interactive laboratory for persistent memory in an LLM. 
