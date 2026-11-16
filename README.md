@@ -2,7 +2,7 @@
 
 I work at the intersection of **artificial intelligence and the humanities**.
 My projects explore how large language models can be used to better understand translation, culture, and creative expression.
-Technical papers for these projects can be found [here](https://github.com/FL2744/Technical-Papers).
+Technical papers for these projects can be found **[here](https://github.com/FL2744/Technical-Papers)**.
 The public-facing site for my FL 2744: AI and Global Languages class is **[here](https://l1001.vt.domains)**.
 
 ### Current interests
