@@ -13,6 +13,8 @@ The public-facing site for my FL 2744: AI and Global Languages class is **[here]
 - Digital humanities
 - AI-assisted research and data analysis
 - Tools for teaching and learning about AI
+- High performance computing
+- User interface design
 
 ### Selected Projects  
 
