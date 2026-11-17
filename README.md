@@ -20,6 +20,9 @@ The public-facing site for my FL 2744: AI and Global Languages class is **[here]
 
 **Language and Translation**
 
+&emsp;**[qlm](https://github.com/FL2744/qlm)**  
+&emsp;A native macOS editor for writing and editable HTML pages, with optional LLM rewriting and translation.
+
 &emsp;**[AFFECTOR](https://github.com/FL2744/AFFECTOR)**  
 &emsp;A text-rewriting app that applies emotional trajectories through activation steering or API-based generation.
 
